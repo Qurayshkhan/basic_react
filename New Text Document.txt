@@ -1,0 +1,11 @@
+Building Components
+Fragments 
+Rendering Lists
+Conditional Rendering
+Event Handeling
+State managment
+Passing Data via props
+Passing function via props
+State vs Props
+Passing children
+Inspacting Component with React dev tools
